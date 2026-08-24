@@ -1,5 +1,4 @@
-# experiment-significance-stability-dashboard
-Interactive dashboard for exploring how significance changes during AB tests and estimating when experiment results become stable enough to stop the AB test
+An interactive dashboard for exploring how significance changes during AB tests and estimating when experiment results become stable enough to stop the AB test
 
 The project explores a practical experimentation question: 
 > How much time does it take to get the significant result and should we wait for such a long period of time (~ month) or we achieve significance during the first 2 weeks?
